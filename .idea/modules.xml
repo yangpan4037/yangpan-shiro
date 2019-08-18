@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/yangpan-shiro.iml" filepath="$PROJECT_DIR$/yangpan-shiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yangpan-shiro-authentication/yangpan-shiro-authentication.iml" filepath="$PROJECT_DIR$/yangpan-shiro-authentication/yangpan-shiro-authentication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yangpan-shiro-authorization/yangpan-shiro-authorization.iml" filepath="$PROJECT_DIR$/yangpan-shiro-authorization/yangpan-shiro-authorization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yangpan-shiro-hello/yangpan-shiro-hello.iml" filepath="$PROJECT_DIR$/yangpan-shiro-hello/yangpan-shiro-hello.iml" />
+    </modules>
+  </component>
+</project>
