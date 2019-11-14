@@ -24,6 +24,7 @@
         <module>yangpan-shiro-authentication</module>
         <module>yangpan-shiro-authorization</module>
         <module>yangpan-shiro-realm</module>
+        <module>yangpan-shiro-encrypt</module>
     </modules>
 
 </project>
