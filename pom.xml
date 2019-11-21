@@ -25,6 +25,8 @@
         <module>yangpan-shiro-authorization</module>
         <module>yangpan-shiro-realm</module>
         <module>yangpan-shiro-encrypt</module>
+        <module>yangpan-shiro-springboot</module>
+        <module>yangpan-shiro-springboot-starter</module>
     </modules>
 
 </project>
