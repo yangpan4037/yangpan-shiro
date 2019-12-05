@@ -31,8 +31,8 @@ CREATE TABLE `roles_permissions`  (
 -- ----------------------------
 -- Records of roles_permissions
 -- ----------------------------
-INSERT INTO `roles_permissions` VALUES ('1', 'user:update', 'admin');
-INSERT INTO `roles_permissions` VALUES ('2', 'user:delete', 'admin');
+INSERT INTO `roles_permissions` VALUES ('1', 'userEntity:update', 'admin');
+INSERT INTO `roles_permissions` VALUES ('2', 'userEntity:delete', 'admin');
 
 -- ----------------------------
 -- Table structure for user_roles
